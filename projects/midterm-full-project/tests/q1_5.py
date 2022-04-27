@@ -1,6 +1,6 @@
 test = {   'name': 'q1_5',
     'points': 1,
-    'suites': [   {   'cases': [   {   'code': ">>> # Check your column labels and spelling\n>>> #fertility_over_time('usa', 2010).labels == ('Year', 'Children per woman')\nTrue",
+    'suites': [   {   'cases': [   {   'code': ">>> # Check your column labels and spelling\n>>> #fertility_over_time('usa', 2010).labels == ('Year', 'Children per woman')\n",
                                        'hidden': False,
                                        'locked': False},
                                    {   'code': '>>> # Check that you use the start year to determine the data range.\n'
